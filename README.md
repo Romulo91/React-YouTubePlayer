@@ -1,6 +1,6 @@
 ## Installation and Setup Instructions
 
-Example:
+Example:<br />
 Clone down this repository. You will need node and npm installed globally on your machine.
 
 Installation:
